@@ -1,9 +1,9 @@
-# React Project - Fashion Store Clients' Feedback
+# React Project - Clients' Feedback For A Fashion Store 
 
 <hr>
 
 ## FEATURES & METHODS
-- Displaying Customers' Feedback for a Store via buttons
+- Displaying Customers' Feedback via buttons
 - React => useState Hook
 - React icons (https://react-icons.github.io/react-icons/) 
 - Dynamic Index Set-up
