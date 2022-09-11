@@ -1,4 +1,4 @@
-# React Project - Clients' Feedback For A Fashion Store 
+# React Project => Clients' Feedback For A Fashion Store 
 
 <hr>
 
