@@ -1,6 +1,27 @@
 # React Project - Fashion Store Clients' Feedback
 
-## Live Demo:
+## LIVE DEMO => 
+
+<hr>
+
+## FEATURES & METHODS
+- Displaying Customers' Feedback for a Store via buttons
+- React => useState Hook
+- React icons (https://react-icons.github.io/react-icons/) 
+- Dynamic Index Set-up
+- CSS Styling
+- Clean Code Writing Principles
+- Responsive / User Friendly
+
+
+## HOW IT WORKS:
+- Install dependencies => npm install
+
+- Serve on localhost:3000 => npm start
+
+- Build for production => npm run build
+
+- Click right & left buttons to see clients' feedback one by one
 
 <hr>
 
