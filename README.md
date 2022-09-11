@@ -28,6 +28,7 @@ HOW IT WORKS:
 ```
 
 <hr>
+## SCREENSHOTS OF DIFFERENT SCREEN SIZES:
 
 ![image](https://user-images.githubusercontent.com/90147636/189531183-a03d6ee9-56e3-4130-bbd1-96d1fd171768.png)
 
