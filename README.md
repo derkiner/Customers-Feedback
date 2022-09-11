@@ -2,7 +2,8 @@
 
 <hr>
 
-## FEATURES & METHODS
+```ts
+FEATURES & METHODS
 - Displaying Customers' Feedback via buttons
 - React => useState Hook
 - React icons (https://react-icons.github.io/react-icons/) 
@@ -11,9 +12,10 @@
 - CSS Styling
 - Clean Code Writing Principles
 - Responsive / User Friendly
+```
 
 ```ts
-## HOW IT WORKS:
+HOW IT WORKS:
 - Install dependencies => npm install
 
 - Serve on localhost:3000 => npm start
