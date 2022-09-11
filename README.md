@@ -1,7 +1,5 @@
 # React Project - Fashion Store Clients' Feedback
 
-## LIVE DEMO => 
-
 <hr>
 
 ## FEATURES & METHODS
@@ -9,6 +7,7 @@
 - React => useState Hook
 - React icons (https://react-icons.github.io/react-icons/) 
 - Dynamic Index Set-up
+- Random People (https://www.uifaces.co/)
 - CSS Styling
 - Clean Code Writing Principles
 - Responsive / User Friendly
