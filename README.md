@@ -12,7 +12,7 @@
 - Clean Code Writing Principles
 - Responsive / User Friendly
 
-
+```ts
 ## HOW IT WORKS:
 - Install dependencies => npm install
 
@@ -21,6 +21,7 @@
 - Build for production => npm run build
 
 - Click right & left buttons to see clients' feedback one by one
+```
 
 <hr>
 
